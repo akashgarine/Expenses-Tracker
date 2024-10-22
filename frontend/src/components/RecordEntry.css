@@ -1,0 +1,69 @@
+/* RecordEntryForm.css */
+
+/* Card styling */
+.card {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+/* Form styling */
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-control {
+    border-radius: 0.25rem;
+}
+
+.input-group-prepend {
+    border-radius: 0.25rem 0 0 0.25rem;
+}
+
+.input-group-text {
+    border-radius: 0 0.25rem 0.25rem 0;
+}
+
+/* Button styling */
+.btn {
+    border-radius: 0.25rem;
+    transition: all 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Alert message styling */
+.alert {
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+    padding: 0.75rem 1.25rem;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}

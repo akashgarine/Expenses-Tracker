@@ -1,0 +1,27 @@
+.login-card {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    color: #333;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .text-danger {
+    color: #dc3545;
+  }
+  

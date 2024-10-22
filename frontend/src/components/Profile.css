@@ -1,0 +1,48 @@
+/* Profile.css */
+
+/* Set the background color for the entire profile container */
+.profile-container {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+/* Style for the profile modal */
+.modal-content {
+    background-color: #ffffff !important; /* White background for modal */
+    color: #333333 !important; /* Dark grey text color */
+}
+
+/* Style for the modal header */
+.modal-header {
+    background-color: #007bff !important; /* Primary blue background for header */
+    color: #ffffff !important; /* White text color for header */
+}
+
+/* Style for the modal body */
+.modal-body {
+    color: #333333 !important; /* Dark grey text color for body */
+}
+
+/* Style for the modal footer */
+.modal-footer {
+    background-color: #f8f9fa !important; /* Light grey background for footer */
+}
+
+/* Button styling */
+.btn-primary {
+    background-color: #007bff !important; /* Primary blue background for button */
+    border-color: #007bff !important; /* Primary blue border for button */
+}
+
+.btn-secondary {
+    background-color: #6c757d !important; /* Secondary grey background for button */
+    border-color: #6c757d !important; /* Secondary grey border for button */
+}
+
+/* Additional styles to ensure good readability */
+.profile-container p {
+    font-size: 1.1em;
+}
